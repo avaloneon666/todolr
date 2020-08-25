@@ -61,7 +61,7 @@ handleEdit = (id)=>{
       <div className = "row">
         <div className="col-10 mx-autp col-md-8 mt-4">
           <h3 className= "text- capitalize text-center">
-            Hello from Main
+            Deploy Test
           </h3>
           <ToDoInput item = {this.state.item}
            handleChange={this.handleChange}
